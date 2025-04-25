@@ -1,6 +1,7 @@
 <?php
 class CircleQueue
 {
+  
   public $MAXSIZE;
   private $front;
   private $rear;
